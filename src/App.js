@@ -13,7 +13,7 @@ class App extends Component {
       {
         id: 2,
         title: 'Create an application',
-        completed: false
+        completed: true
       },
       {
         id: 3,
